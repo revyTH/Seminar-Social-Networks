@@ -1,0 +1,42 @@
+follow_request_sent	False
+has_extended_profile	False
+profile_use_background_image	True
+default_profile_image	False
+id	314792669
+profile_background_image_url_https	https://pbs.twimg.com/profile_background_images/468766748057944064/5nWWeRPv.jpeg
+verified	True
+profile_text_color	333333
+profile_image_url_https	https://pbs.twimg.com/profile_images/1406636192/pfimage_normal.jpg
+profile_sidebar_fill_color	DDEEF6
+entities	{u'description': {u'urls': []}}
+followers_count	1520105
+profile_sidebar_border_color	FFFFFF
+id_str	314792669
+profile_background_color	C0DEED
+listed_count	1
+status	{u'contributors': None, u'truncated': False, u'text': u"A photoshoot in 1967 for UK girl's magazine, Jackie... https://t.co/rveKZdtPrG", u'is_quote_status': False, u'in_reply_to_status_id': None, u'id': 751658699412897793, u'favorite_count': 632, u'source': u'<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>', u'retweeted': False, u'coordinates': None, u'entities': {u'symbols': [], u'user_mentions': [], u'hashtags': [], u'urls': [], u'media': [{u'expanded_url': u'http://twitter.com/pinkfloyd/status/751658699412897793/photo/1', u'display_url': u'pic.twitter.com/rveKZdtPrG', u'url': u'https://t.co/rveKZdtPrG', u'media_url_https': u'https://pbs.twimg.com/media/Cm5tkvUWIAAZbzD.jpg', u'id_str': u'751658665761972224', u'sizes': {u'large': {u'h': 600, u'resize': u'fit', u'w': 1000}, u'small': {u'h': 408, u'resize': u'fit', u'w': 680}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 1000}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [55, 78], u'type': u'photo', u'id': 751658665761972224, u'media_url': u'http://pbs.twimg.com/media/Cm5tkvUWIAAZbzD.jpg'}]}, u'in_reply_to_screen_name': None, u'in_reply_to_user_id': None, u'retweet_count': 312, u'id_str': u'751658699412897793', u'favorited': False, u'geo': None, u'in_reply_to_user_id_str': None, u'possibly_sensitive': False, u'lang': u'en', u'created_at': u'Sat Jul 09 06:06:13 +0000 2016', u'in_reply_to_status_id_str': None, u'place': None, u'extended_entities': {u'media': [{u'expanded_url': u'http://twitter.com/pinkfloyd/status/751658699412897793/photo/1', u'display_url': u'pic.twitter.com/rveKZdtPrG', u'url': u'https://t.co/rveKZdtPrG', u'media_url_https': u'https://pbs.twimg.com/media/Cm5tkvUWIAAZbzD.jpg', u'id_str': u'751658665761972224', u'sizes': {u'large': {u'h': 600, u'resize': u'fit', u'w': 1000}, u'small': {u'h': 408, u'resize': u'fit', u'w': 680}, u'medium': {u'h': 600, u'resize': u'fit', u'w': 1000}, u'thumb': {u'h': 150, u'resize': u'crop', u'w': 150}}, u'indices': [55, 78], u'type': u'photo', u'id': 751658665761972224, u'media_url': u'http://pbs.twimg.com/media/Cm5tkvUWIAAZbzD.jpg'}]}}
+is_translation_enabled	False
+utc_offset	-28800
+statuses_count	1060
+description	Pink Floyd is one of the most successful and influential rock groups in history.
+friends_count	256
+location	
+profile_link_color	0084B4
+profile_image_url	http://pbs.twimg.com/profile_images/1406636192/pfimage_normal.jpg
+following	False
+geo_enabled	True
+profile_banner_url	https://pbs.twimg.com/profile_banners/314792669/1415641282
+profile_background_image_url	http://pbs.twimg.com/profile_background_images/468766748057944064/5nWWeRPv.jpeg
+screen_name	pinkfloyd
+lang	en
+profile_background_tile	False
+favourites_count	142
+name	Pink Floyd
+notifications	False
+url	None
+created_at	Fri Jun 10 20:30:31 +0000 2011
+contributors_enabled	False
+time_zone	Alaska
+protected	False
+default_profile	False
+is_translator	False

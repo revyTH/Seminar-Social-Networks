@@ -1,0 +1,374 @@
+{
+  "contributors": null, 
+  "truncated": false, 
+  "text": "RT @NinjaBeeGames: Entertaining ourselves at a #GDC party. Best photo scavenger hunt pic.  #selfie with an unsuspecting participant. https:\u2026", 
+  "is_quote_status": false, 
+  "in_reply_to_status_id": null, 
+  "id": 711266133152702465, 
+  "favorite_count": 0, 
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+  "retweeted": false, 
+  "coordinates": null, 
+  "entities": {
+    "symbols": [], 
+    "user_mentions": [
+      {
+        "id": 18946688, 
+        "indices": [
+          3, 
+          17
+        ], 
+        "id_str": "18946688", 
+        "screen_name": "NinjaBeeGames", 
+        "name": "NinjaBeeGames"
+      }
+    ], 
+    "hashtags": [
+      {
+        "indices": [
+          47, 
+          51
+        ], 
+        "text": "GDC"
+      }, 
+      {
+        "indices": [
+          91, 
+          98
+        ], 
+        "text": "selfie"
+      }
+    ], 
+    "urls": [], 
+    "media": [
+      {
+        "source_user_id": 18946688, 
+        "source_status_id_str": "711265829539581954", 
+        "expanded_url": "http://twitter.com/NinjaBeeGames/status/711265829539581954/photo/1", 
+        "display_url": "pic.twitter.com/L5Ie7iLMJG", 
+        "url": "https://t.co/L5Ie7iLMJG", 
+        "media_url_https": "https://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg", 
+        "source_user_id_str": "18946688", 
+        "source_status_id": 711265829539581954, 
+        "id_str": "711265822849667072", 
+        "sizes": {
+          "large": {
+            "h": 576, 
+            "resize": "fit", 
+            "w": 1024
+          }, 
+          "small": {
+            "h": 191, 
+            "resize": "fit", 
+            "w": 340
+          }, 
+          "medium": {
+            "h": 338, 
+            "resize": "fit", 
+            "w": 600
+          }, 
+          "thumb": {
+            "h": 150, 
+            "resize": "crop", 
+            "w": 150
+          }
+        }, 
+        "indices": [
+          139, 
+          140
+        ], 
+        "type": "photo", 
+        "id": 711265822849667072, 
+        "media_url": "http://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg"
+      }
+    ]
+  }, 
+  "in_reply_to_screen_name": null, 
+  "in_reply_to_user_id": null, 
+  "retweet_count": 1, 
+  "id_str": "711266133152702465", 
+  "favorited": false, 
+  "retweeted_status": {
+    "contributors": null, 
+    "truncated": false, 
+    "text": "Entertaining ourselves at a #GDC party. Best photo scavenger hunt pic.  #selfie with an unsuspecting participant. https://t.co/L5Ie7iLMJG", 
+    "is_quote_status": false, 
+    "in_reply_to_status_id": null, 
+    "id": 711265829539581954, 
+    "favorite_count": 1, 
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+    "retweeted": false, 
+    "coordinates": null, 
+    "entities": {
+      "symbols": [], 
+      "user_mentions": [], 
+      "hashtags": [
+        {
+          "indices": [
+            28, 
+            32
+          ], 
+          "text": "GDC"
+        }, 
+        {
+          "indices": [
+            72, 
+            79
+          ], 
+          "text": "selfie"
+        }
+      ], 
+      "urls": [], 
+      "media": [
+        {
+          "expanded_url": "http://twitter.com/NinjaBeeGames/status/711265829539581954/photo/1", 
+          "display_url": "pic.twitter.com/L5Ie7iLMJG", 
+          "url": "https://t.co/L5Ie7iLMJG", 
+          "media_url_https": "https://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg", 
+          "id_str": "711265822849667072", 
+          "sizes": {
+            "large": {
+              "h": 576, 
+              "resize": "fit", 
+              "w": 1024
+            }, 
+            "small": {
+              "h": 191, 
+              "resize": "fit", 
+              "w": 340
+            }, 
+            "medium": {
+              "h": 338, 
+              "resize": "fit", 
+              "w": 600
+            }, 
+            "thumb": {
+              "h": 150, 
+              "resize": "crop", 
+              "w": 150
+            }
+          }, 
+          "indices": [
+            114, 
+            137
+          ], 
+          "type": "photo", 
+          "id": 711265822849667072, 
+          "media_url": "http://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg"
+        }
+      ]
+    }, 
+    "in_reply_to_screen_name": null, 
+    "in_reply_to_user_id": null, 
+    "retweet_count": 1, 
+    "id_str": "711265829539581954", 
+    "favorited": false, 
+    "user": {
+      "follow_request_sent": false, 
+      "has_extended_profile": false, 
+      "profile_use_background_image": true, 
+      "default_profile_image": false, 
+      "id": 18946688, 
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438792999611277312/c5ehiDFS.jpeg", 
+      "verified": false, 
+      "profile_text_color": "F57575", 
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/75516649/Ninjabee_Web_normal.jpg", 
+      "profile_sidebar_fill_color": "302932", 
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/cd4bUucs0J", 
+              "indices": [
+                0, 
+                22
+              ], 
+              "expanded_url": "http://ninjabee.com", 
+              "display_url": "ninjabee.com"
+            }
+          ]
+        }, 
+        "description": {
+          "urls": []
+        }
+      }, 
+      "followers_count": 13632, 
+      "profile_sidebar_border_color": "FFFFFF", 
+      "id_str": "18946688", 
+      "profile_background_color": "0A192E", 
+      "listed_count": 427, 
+      "is_translation_enabled": false, 
+      "utc_offset": -21600, 
+      "statuses_count": 2431, 
+      "description": "Xbox One: Nutjitsu. XBLA: A World of Keflings, Ancients of Ooga, A Kingdom for Keflings, Cloning Clyde, Outpost Kaloki X, Band of Bugs. PSN: Akimi Village", 
+      "friends_count": 490, 
+      "location": "Orem, UT", 
+      "profile_link_color": "0084B4", 
+      "profile_image_url": "http://pbs.twimg.com/profile_images/75516649/Ninjabee_Web_normal.jpg", 
+      "following": false, 
+      "geo_enabled": true, 
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18946688/1413327801", 
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438792999611277312/c5ehiDFS.jpeg", 
+      "screen_name": "NinjaBeeGames", 
+      "lang": "en", 
+      "profile_background_tile": false, 
+      "favourites_count": 333, 
+      "name": "NinjaBeeGames", 
+      "notifications": false, 
+      "url": "http://t.co/cd4bUucs0J", 
+      "created_at": "Tue Jan 13 18:17:51 +0000 2009", 
+      "contributors_enabled": false, 
+      "time_zone": "Mountain Time (US & Canada)", 
+      "protected": false, 
+      "default_profile": false, 
+      "is_translator": false
+    }, 
+    "geo": null, 
+    "in_reply_to_user_id_str": null, 
+    "possibly_sensitive": false, 
+    "lang": "en", 
+    "created_at": "Sat Mar 19 18:59:23 +0000 2016", 
+    "in_reply_to_status_id_str": null, 
+    "place": null, 
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "http://twitter.com/NinjaBeeGames/status/711265829539581954/photo/1", 
+          "display_url": "pic.twitter.com/L5Ie7iLMJG", 
+          "url": "https://t.co/L5Ie7iLMJG", 
+          "ext_alt_text": null, 
+          "media_url_https": "https://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg", 
+          "id_str": "711265822849667072", 
+          "sizes": {
+            "large": {
+              "h": 576, 
+              "resize": "fit", 
+              "w": 1024
+            }, 
+            "small": {
+              "h": 191, 
+              "resize": "fit", 
+              "w": 340
+            }, 
+            "medium": {
+              "h": 338, 
+              "resize": "fit", 
+              "w": 600
+            }, 
+            "thumb": {
+              "h": 150, 
+              "resize": "crop", 
+              "w": 150
+            }
+          }, 
+          "indices": [
+            114, 
+            137
+          ], 
+          "type": "photo", 
+          "id": 711265822849667072, 
+          "media_url": "http://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg"
+        }
+      ]
+    }
+  }, 
+  "user": {
+    "follow_request_sent": false, 
+    "has_extended_profile": false, 
+    "profile_use_background_image": true, 
+    "default_profile_image": false, 
+    "id": 24735095, 
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000151919632/LQ8k70wO.jpeg", 
+    "verified": false, 
+    "profile_text_color": "4E2B08", 
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/412638349224992768/4fYHKpsE_normal.jpeg", 
+    "profile_sidebar_fill_color": "E8E1CE", 
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    }, 
+    "followers_count": 341, 
+    "profile_sidebar_border_color": "FFFFFF", 
+    "id_str": "24735095", 
+    "profile_background_color": "270F04", 
+    "listed_count": 17, 
+    "is_translation_enabled": false, 
+    "utc_offset": -21600, 
+    "statuses_count": 1668, 
+    "description": "I make games. I Art Direct @NinjaBeeGames   \nLinkedIn: Brent Fox / \n / Twitter: @BrentRFox\n/ Pinterest: bigbluefox\n/ FaceBook: Brent Fox Art", 
+    "friends_count": 499, 
+    "location": "Utah", 
+    "profile_link_color": "CB5934", 
+    "profile_image_url": "http://pbs.twimg.com/profile_images/412638349224992768/4fYHKpsE_normal.jpeg", 
+    "following": false, 
+    "geo_enabled": false, 
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/24735095/1409072428", 
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000151919632/LQ8k70wO.jpeg", 
+    "screen_name": "BrentRFox", 
+    "lang": "en", 
+    "profile_background_tile": false, 
+    "favourites_count": 313, 
+    "name": "Brent Fox", 
+    "notifications": false, 
+    "url": null, 
+    "created_at": "Mon Mar 16 17:52:56 +0000 2009", 
+    "contributors_enabled": false, 
+    "time_zone": "Mountain Time (US & Canada)", 
+    "protected": false, 
+    "default_profile": false, 
+    "is_translator": false
+  }, 
+  "geo": null, 
+  "in_reply_to_user_id_str": null, 
+  "possibly_sensitive": false, 
+  "lang": "en", 
+  "created_at": "Sat Mar 19 19:00:35 +0000 2016", 
+  "in_reply_to_status_id_str": null, 
+  "place": null, 
+  "extended_entities": {
+    "media": [
+      {
+        "source_user_id": 18946688, 
+        "source_status_id_str": "711265829539581954", 
+        "expanded_url": "http://twitter.com/NinjaBeeGames/status/711265829539581954/photo/1", 
+        "display_url": "pic.twitter.com/L5Ie7iLMJG", 
+        "url": "https://t.co/L5Ie7iLMJG", 
+        "ext_alt_text": null, 
+        "media_url_https": "https://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg", 
+        "source_user_id_str": "18946688", 
+        "source_status_id": 711265829539581954, 
+        "id_str": "711265822849667072", 
+        "sizes": {
+          "large": {
+            "h": 576, 
+            "resize": "fit", 
+            "w": 1024
+          }, 
+          "small": {
+            "h": 191, 
+            "resize": "fit", 
+            "w": 340
+          }, 
+          "medium": {
+            "h": 338, 
+            "resize": "fit", 
+            "w": 600
+          }, 
+          "thumb": {
+            "h": 150, 
+            "resize": "crop", 
+            "w": 150
+          }
+        }, 
+        "indices": [
+          139, 
+          140
+        ], 
+        "type": "photo", 
+        "id": 711265822849667072, 
+        "media_url": "http://pbs.twimg.com/media/Cd7sf1fUkAAMwbw.jpg"
+      }
+    ]
+  }
+}
